@@ -1,2 +1,2 @@
 # silver-sky1
-Blah Blah Blah
+acho que isso virou uma apresentação de eu mesmo... então se você deve me conhecer por Charlie ou Caio, no momento que escrevo isso sou nada mais que um adolecente de 16 anos que sonha em ser um programador
