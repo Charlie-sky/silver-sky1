@@ -35,14 +35,14 @@ header div a:hover {
     margin-bottom: 32px;
 }
 #box h1 {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 52px;
     font-weight: bold;
     color: rgb(208, 184, 245);
     font-family: "Press Start 2P", system-ui;
 }
 #box h2 {
-    font-size: 24px;
+    font-size: 28px;
     line-height: 34px;
     font-weight: normal;
     margin-top: 8px;
@@ -52,7 +52,11 @@ header div a:hover {
 #box p {
     max-width: 500px;
     margin: 32px auto;
-    font-size: 24px;
+    font-size: 28px;
     line-height: 32px;
     color: rgb(208, 184, 245);
+}
+
+.link a {
+
 }
